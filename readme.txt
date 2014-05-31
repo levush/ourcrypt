@@ -26,8 +26,9 @@ Now for the kishkes:
 
 
 I did Havdalah now, and it is time to fork truecrypt.
-I will call it ourcrypt.org, since strong trustwothy cryptography should belong to us. So it is ourcrypt.
-I did this because truecrypt has a trade mark so changing/improving on it needs to make a fork with a different name.
+I will call it ourcrypt.org, since strong trustwothy cryptography should 
+belong to us. So it is ourcrypt. I did this because truecrypt has a trade mark
+ so changing/improving on it needs to make a fork with a different name.
 I chose ourcrypt.org to be a new web side for the fork of truecrypt.
 
 

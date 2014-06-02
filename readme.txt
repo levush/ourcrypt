@@ -32,4 +32,5 @@ belong to us. So it is ourcrypt. I did this because truecrypt has a trade mark
 I chose ourcrypt.org to be a new web side for the fork of truecrypt.
 
 
-
+TRIVIA:
+WARNING: Using TrueCrypt is Not Secure As it may contain unfixed security issues
